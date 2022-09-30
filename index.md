@@ -1,7 +1,5 @@
-I am *testing* to see if markdown works.
-# this should be a header
-[this should be a link](https://github.com/benjaminesser/cse15l-lab-reports/edit/main/index.md)
+# Lab Reports
 
-> testing this function
+[Week 0](https://benjaminesser.github.io/cse15l-lab-reports/week0/lab-report-week-0.html)
 
-[this link should point to the lab report page](https://benjaminesser.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+[Week 1](https://benjaminesser.github.io/cse15l-lab-reports/week1/lab-report-week-1.html)
